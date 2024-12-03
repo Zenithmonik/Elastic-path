@@ -1,0 +1,15 @@
+body {
+    font-family: "Parkinsans" sans-serif;
+    text-align: start;
+
+}
+
+.illustration-selection {
+    text-align: center;
+margin: 20px;
+   }
+   .illustration-selection-img{
+    width: 200px;
+    display: block;
+    max-width: 100%;
+   }
